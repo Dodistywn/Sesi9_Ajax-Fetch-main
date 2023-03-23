@@ -15,21 +15,6 @@ async function fetchData() {
 }
 fetchData()
 
-//--> berikut kodingan untuk post
-
-// fetch(url, {
-//     method: 'POST',
-//     headers: {
-//         'Content-Type': 'apllication/json'
-//     },
-//     body: JSON.stringify({
-//         name: 'Cocoba',
-//         username: 'coba',
-//         email: 'coba@gmail.com'
-//     })
-// })
-//     .then((response) => response.json())
-//     .then((json) => console.log(json))
 
 
 
