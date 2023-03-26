@@ -21,9 +21,9 @@ function display(data) {
     });
 }
 
-// function clearData(id) {
-//     document.getElementById(id).innerHTML = ''
-// }
+function clearData(id) {
+    document.getElementById(id).innerHTML = ''
+}
 
 function insertData(data) {
     const dataTable = document.createElement("tr");
